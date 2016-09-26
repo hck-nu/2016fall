@@ -1,0 +1,14 @@
+1. Basic Document Template
+-Doctype, html, head, body
+2. Headings & Paragraphs
+-My Dream Trip, What I want to See, Things I need before going
+3. Text Formatting (Bold/Italics)
+-Bold Japan
+4. Ordered and Unordered Lists
+-Add Ordered and Unordered List
+5. Links and Images
+-Make each ol item an image and things I need links
+6. CSS and Style Tags
+-Change background, Change Typeface, Link CSS
+7. Divs
+-Right Align <ul> using a Div
