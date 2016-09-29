@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<head>
+    <title>FireChat</title>
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        #send {
+            margin-left: 12px;
+        }
+    </style>
+    <script src="https://www.gstatic.com/firebasejs/3.4.0/firebase.js" defer></script>
+    <script src="https://www.gstatic.com/firebasejs/3.4.0/firebase-app.js" defer></script>
+    <script src="https://www.gstatic.com/firebasejs/3.4.0/firebase-database.js" defer></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" defer></script>
+    <script src="firechat.js" defer></script>
+</head>
+
+<body>
+    <h1>&#x1f525; &#x1f525; &#x1f525; FireChat &#x1f525; &#x1f525; &#x1f525;</h1>
+    <input id="message" type="text"><button id="send" type="submit">Send</button>
+    <ul id="message-list"></ul>
+</body>
