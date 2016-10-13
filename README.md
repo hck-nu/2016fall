@@ -1,6 +1,6 @@
 # HackNorthwestern Fall 2016
 
-Week 1 (9/28): Web Development (HTML/CSS, Firebase)
+Week 2 (9/28): Web Development (HTML/CSS, Firebase)
 
 Week 3 (10/5): Introduction to Android Development
 

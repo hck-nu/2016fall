@@ -6,3 +6,5 @@
 - [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
 
 ## Technical Interview Resources
+
+- [Technical Interview PPT](https://docs.google.com/presentation/d/1LWK51LHMSQkb_rmVT5BPMw6a8okcnT1LyufxpigJjBM/edit#slide=id.p)
